@@ -27,6 +27,6 @@
     6. 계속 경사로 상태 유지
     하지만, 만약 경사로로 변환된 상태에서 물체가 감지되면, 시스템은 경사로 형태를 계속 유지합니다. 사용자가 경사로에서 벗어날 때까지 경사로 형태를 유지하며, 추가적인 감지가 없으면 다시 계단 형태로 변환됩니다.
 
-    ![image](https://github.com/user-attachments/assets/88391016-9dbc-4a8d-a463-919863a295e1)
+![image](https://github.com/user-attachments/assets/88391016-9dbc-4a8d-a463-919863a295e1)
 ![image](https://github.com/user-attachments/assets/d5a1238e-c1e8-4efb-8aa0-15c22a5d0bca)
 ![image](https://github.com/user-attachments/assets/514cd34c-e857-4229-8572-0a03ebdd942d)
